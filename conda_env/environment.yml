@@ -1,0 +1,14 @@
+name: biobb_MDsetupRemote_tutorial
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - biobb_analysis==3.5.0
+  - biobb_io==3.5.0
+  - biobb_model==3.5.0
+  - biobb_md==3.5.1
+  - nb_conda_kernels
+  - plotly
+  - nglview
+  - simpletraj
+  - conda
